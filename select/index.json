@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "青空",
+  "base_artist": "北谷 琉喜",
+  "createdAt": "2026-03-16T14:00:43.319144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青空 (Album version)",
+      "artist": "スガシカオ",
+      "has_synced": false,
+      "path": "select/01_青空_(Album_version)_スガシカオ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aozora [青空]",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/02_Aozora_[青空]_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青空",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/03_青空_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aozora [青空]",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/04_Aozora_[青空]_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aozora [青空]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/05_Aozora_[青空]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青空 Very good days!!",
+      "artist": "ステレオポニー",
+      "has_synced": true,
+      "path": "select/06_青空_Very_good_days!!_ステレオポニー.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青空",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/07_青空_supercell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青空、ひとりきり (Remastered 2018)",
+      "artist": "井上陽水",
+      "has_synced": false,
+      "path": "select/08_青空、ひとりきり_(Remastered_2018)_井上陽水.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青空、ひとりきり",
+      "artist": "井上陽水",
+      "has_synced": false,
+      "path": "select/09_青空、ひとりきり_井上陽水.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青空 Very good days!!",
+      "artist": "Stereopony",
+      "has_synced": true,
+      "path": "select/10_青空_Very_good_days!!_Stereopony.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "青空",
+      "artist": "BEAT CRUSADERS with 磯部正文 and FRIENDS",
+      "has_synced": false,
+      "path": "select/11_青空_BEAT_CRUSADERS_with_磯部正文_and_FRIENDS.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "青空",
+      "artist": "スガシカオ",
+      "has_synced": false,
+      "path": "select/12_青空_スガシカオ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "青空",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/13_青空_Lia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "青空",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/14_青空_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青空",
+      "artist": "北谷 琉喜",
+      "has_synced": false,
+      "path": "select/pl_01_青空_北谷_琉喜.txt"
+    }
+  ]
+}
